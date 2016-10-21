@@ -29,3 +29,5 @@
     [gui]
         wmstate = normal
         geometry = 837x499+75+75 188 225
+
+
