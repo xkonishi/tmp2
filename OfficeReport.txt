@@ -1,3 +1,6 @@
 1.10
 https://login.salesforce.com/packaging/installPackage.apexp?p0=04t28000000YwvA
 
+1.11
+https://login.salesforce.com/packaging/installPackage.apexp?p0=04t28000000Yz0g
+
